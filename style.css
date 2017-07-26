@@ -1,0 +1,20 @@
+/*
+styling center form*/
+
+form {
+    width: 50% !important;
+    margin: 0 auto !important;
+}
+
+#page {
+    color: #1F1641;
+    background-color: #F49F05;
+}
+
+.jumbotron {
+    background-color: #36688D !important;
+}
+
+.content {
+    background-color: #F18904 !important;
+}
